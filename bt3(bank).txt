@@ -1,0 +1,14 @@
+1.open remix ide
+2. create file save by .sol 
+3.paste code from github
+4.check the solidity 0.6.0
+5.go to compile code and change the solidity to 0.6.0
+6.then compile the code
+7.click below icon to deploy the code
+8.deploy once
+9.then banking contract will open press down arrow
+10. create account
+11.scroll up set ether value to 20 (this option is above deploy)
+12.then press on deposite ....after success copy address from (from)
+13.send amount by presssing down arror add address and amount
+14.same process for all except withdraw because you dont have to add address on it 
