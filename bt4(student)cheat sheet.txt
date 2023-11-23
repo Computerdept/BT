@@ -1,0 +1,13 @@
+1.open remix ide
+2.create file and save with sol extention
+3.copy program and thecn check solidy is 0.6.0
+4.change solidity to 0.6.0
+5.change it from compile option
+6.after changing solidity run compile the program
+7.after successful compilation run the program
+8.deploy the contract
+9.add student data
+10. get student data 
+
+
+all the besttttttts
